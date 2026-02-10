@@ -1,5 +1,19 @@
 # Spain Visa Appointment Monitor & Automation Assistant
 
+---
+
+## 🎥 Live Demo Video
+
+Here is a full walkthrough showing how the Spain Visa Appointment Bot works (slot monitoring, workflow automation, and notifications):
+
+👉 **Watch Demo on YouTube:**  
+https://youtu.be/n3N1tM0r37w
+
+### Click Below to View the Demo:
+
+[![Spain Visa Appointment Bot Demo](https://img.youtube.com/vi/n3N1tM0r37w/0.jpg)](https://youtu.be/n3N1tM0r37w)
+
+---
 
 This repository contains an automated assistant designed to help monitor and navigate the Spain visa appointment workflow.
 
