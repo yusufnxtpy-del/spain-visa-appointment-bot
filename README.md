@@ -25,12 +25,6 @@ The bot is built with a focus on:
 - VPS-friendly automation  
 - Notification support for real-time updates  
 
-A full demo video showing how the bot works will be provided here:
-
-👉 **Demo Video Link:** *(coming soon)*
-
----
-
 ## 🚀 Key Features
 
 - Automated appointment slot checking  
